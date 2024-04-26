@@ -1,0 +1,5 @@
+ollama
+simpleaudio
+piper-tts
+pygame
+TTS
