@@ -103,6 +103,10 @@ Alright, let's get our thinking caps on and start brainstorming some innovative 
 Here is the corresponding audio output using higher quality XTTS models:
 
 
+https://github.com/peteh/llm-dialog/assets/918728/bc4038b0-058b-422f-b169-ef8a3d23d058
+
+
+
 ```txt
 B: Hello
 ======================
@@ -118,6 +122,9 @@ A: Angy, I hear you, but let's not throw the baby out with the bathwater! Techno
 ```
 
 And here the output using PiperTTS
+
+https://github.com/peteh/llm-dialog/assets/918728/cfd12a9e-a82e-453a-a209-8ca4506dd8b2
+
 
 
 ## Credits
