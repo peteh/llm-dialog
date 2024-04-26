@@ -6,7 +6,11 @@ This tool lets Large Language models talk to each other and generates a dialogue
 
 ## Running the Dialogue
 
-First create your virtual env to run the examples in:
+First you will need to set up Ollama on your machine. Follow the instructions for your OS on <https://github.com/ollama/ollama>.
+
+You will also need to download the model you want to use. The default is `llama3`.
+
+After installing and starting Ollama, create your virtual env to run the examples:
 
 ```bash
 python3 -m venv .venv
