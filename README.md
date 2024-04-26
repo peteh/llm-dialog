@@ -1,8 +1,8 @@
 # Large Language Model Dialogue
 
-This is a small art project that generates dialogue between two fictional characters.
+This is a small art project that generates dialogue between two fictional characters given a topic and two different standpoints.
 
-This tool lets Large Language models talk to each other and generate a dialogue with Text To Speech. Currently it supports Ollama and PiperTTS or XTTS models via CoqUI TTS.
+This tool lets Large Language models talk to each other and generates a dialogue with Text To Speech. Currently it supports Ollama and PiperTTS or XTTS models via CoqUI TTS.
 
 ## Running the Dialogue
 
@@ -26,7 +26,7 @@ The tool also implements XTTS voice models using CoqUI TTS. To train such a mode
 
 <https://www.youtube.com/watch?v=8tpDiiouGxc>
 
-Store the model files in a separate folde, e.g. named `xtts`:
+Store the model files in a separate folder, e.g. named `xtts`:
 
 ```bash
 /xtts
@@ -120,8 +120,7 @@ https://github.com/peteh/llm-dialog/assets/918728/bc4038b0-058b-422f-b169-ef8a3d
 >
 >A: Angy, I hear you, but let's not throw the baby out with the bathwater! Technology is advancing faster than ever before – and yes, it'll take time to scale up sustainable fuels and green tech. But that doesn't mean we should abandon flights altogether! We need to work together to create a roadmap for transition, investing in R&D and implementing incremental changes that make a real difference. Carbon offsets might not be perfect, but they're a step towards accounting for emissions – and who's to say that innovative solutions won't emerge from the private sector or academia? We can't just give up on progress because we haven't found the holy grail of sustainable aviation yet!
 
-
-And here the output using PiperTTS
+And here the output using PiperTTS:
 
 https://github.com/peteh/llm-dialog/assets/918728/cfd12a9e-a82e-453a-a209-8ca4506dd8b2
 
