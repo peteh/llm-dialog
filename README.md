@@ -1,6 +1,8 @@
 # Large Language Model Dialogue
 
-A tool to let LLMs talk to each other and generate a dialogue with Text To Speech. Currently it supports Ollama and PiperTTS or XTTS models via CoqUI TTS.
+This is a small art project that generates dialogue between two fictional characters.
+
+This tool lets Large Language models talk to each other and generate a dialogue with Text To Speech. Currently it supports Ollama and PiperTTS or XTTS models via CoqUI TTS.
 
 ## Running the Dialogue
 
@@ -133,4 +135,3 @@ PiperTTS \
 
 CoqUI TTS \
 <https://github.com/coqui-ai/TTS>
-
